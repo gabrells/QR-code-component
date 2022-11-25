@@ -1,0 +1,36 @@
+<svg width="1440" height="1056" viewBox="0 0 1440 1056" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_21)">
+<rect width="1440" height="1056" fill="#F0F0F0"/>
+<ellipse cx="46.5051" cy="256.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="-0.505051" cy="256.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="46.5051" cy="296.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="-0.505051" cy="296.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="46.5051" cy="336.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="-0.505051" cy="336.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="-0.505051" cy="376.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="46.5051" cy="376.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="46.5051" cy="416.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="-0.505051" cy="416.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="3.49495" cy="456.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<ellipse cx="46.4949" cy="456.261" rx="14.4949" ry="14.2612" fill="#71BACF"/>
+<g filter="url(#filter0_f_6_21)">
+<path d="M1450 815C1450 884.036 1394.04 940 1325 940C1255.96 940 1200 884.036 1200 815C1200 745.964 1255.96 690 1325 690C1394.04 690 1450 745.964 1450 815Z" fill="#F0F0F0"/>
+<path d="M1442.5 815C1442.5 879.893 1389.89 932.5 1325 932.5C1260.11 932.5 1207.5 879.893 1207.5 815C1207.5 750.107 1260.11 697.5 1325 697.5C1389.89 697.5 1442.5 750.107 1442.5 815Z" stroke="#E3E9EE" stroke-width="15"/>
+</g>
+<path d="M828 -11V84C828 86.7614 830.239 89 833 89H848.625H878" stroke="#F9C7C5" stroke-width="15" stroke-linecap="round"/>
+<path d="M1270 254L1295.45 198.425C1297.24 194.535 1302.76 194.535 1304.55 198.425L1325.45 244.075C1327.24 247.965 1332.76 247.965 1334.55 244.075L1355.45 198.425C1357.24 194.535 1362.76 194.535 1364.55 198.425L1385.45 244.075C1387.24 247.965 1392.76 247.965 1394.55 244.075L1415.45 198.425C1417.24 194.535 1422.76 194.535 1424.55 198.425L1450 254" stroke="#F9C7C5" stroke-width="15" stroke-linecap="round"/>
+<line x1="537.336" y1="685.14" x2="394.394" y2="954.57" stroke="#E3EBF2" stroke-width="15" stroke-linecap="round"/>
+<line x1="447.336" y1="685.14" x2="323.14" y2="919.235" stroke="#E3EBF2" stroke-width="15" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_f_6_21" x="1196" y="686" width="258" height="258" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_6_21"/>
+</filter>
+<clipPath id="clip0_6_21">
+<rect width="1440" height="1056" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
